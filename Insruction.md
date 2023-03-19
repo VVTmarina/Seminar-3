@@ -7,3 +7,5 @@
 > **git add** - *добавить файл к следующему commit*
 
 > **git diff** - *показывает разницу*
+
+> **git commit -am "_"** - объединение команд git add и git commit
