@@ -8,4 +8,6 @@
 
 > **git diff** - *показывает разницу*
 
-> **git commit -am "_"** - объединение команд git add и git commit
+> **git commit -am "_"** - *объединение команд git add и git commit*
+
+> **git log** - *журнал изменений*
